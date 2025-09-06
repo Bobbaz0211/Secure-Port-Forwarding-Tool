@@ -1,0 +1,22 @@
+{
+	"nginx": [
+	      "host",
+	      "tcp",
+	      "80"
+	
+	],
+
+	"samba": [
+	     "host",
+	     "tcp",
+	     "445"
+	],
+
+	"minecraft": [
+	      "host",
+	      "udp",
+	      "25565"
+	]
+
+
+}
